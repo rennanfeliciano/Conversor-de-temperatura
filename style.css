@@ -75,6 +75,7 @@ button {
 button:hover {
     background-color: #4ade80;
     outline: none;
+    cursor: pointer;
 }
 
 .result {
