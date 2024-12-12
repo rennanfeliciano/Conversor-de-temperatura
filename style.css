@@ -127,39 +127,39 @@ input:focus {
 /* Responsividade */
 @media (max-width: 768px) {
     .card-main {
-        max-width: 100%; /* Reduz a largura para se ajustar ao viewport */
-        padding: 20px; /* Ajusta os espaçamentos */
+        max-width: 100%; 
+        padding: 20px; 
     }
 
     .result {
-        width: 100%; /* Garante que o resultado ocupe toda a largura disponível */
+        width: 100%; 
     }
 
     button {
-        width: 100%; /* Botão ajusta-se à largura do card */
+        width: 100%; 
     }
 
     select {
-        width: 100%; /* Ajusta os inputs para ocuparem toda a largura */
+        width: 100%; 
     }
 
 }
 
 @media (max-width: 480px) {
     .card-main {
-        padding: 15px; /* Reduz ainda mais os espaçamentos */
+        padding: 15px; 
     }
 
     .card-main > h1 {
-        font-size: 1.8rem; /* Reduz o tamanho da fonte do título */
+        font-size: 1.8rem; 
     }
 
     button {
-        font-size: 0.9rem; /* Ajusta o tamanho da fonte do botão */
+        font-size: 0.9rem; 
     }
 
     .result {
-        font-size: 0.9rem; /* Ajusta o tamanho da fonte do resultado */
+        font-size: 0.9rem; 
     }
 
 
