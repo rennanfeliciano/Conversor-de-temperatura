@@ -72,5 +72,5 @@ A aplicação faz chamadas a um endpoint REST para realizar a conversão de temp
 
 ## Licença
 
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+Este projeto é distribuído sob a licença MIT.
 
